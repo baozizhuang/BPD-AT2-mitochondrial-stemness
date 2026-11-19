@@ -1,6 +1,6 @@
 # Single-cell analysis reveals mitochondrial metabolism-linked AT2 stemness in bronchopulmonary dysplasia
 
-Publication preparation candidate — not a validated reproducible release.
+Analysis code archive, version 0.1.0. This is a partial code release; end-to-end reproducibility has not been validated.
 
 ## Analysis layout
 
@@ -21,4 +21,10 @@ GEO: GSE217488, GSE225881, GSE220135, GSE188944 and GSE108754. FinnGen file: fin
 
 ## Publication metadata
 
-Creators, affiliations, license, final repository URL, version and Zenodo DOI remain to be completed. No reuse license is granted by this preparation README. Third-party materials retain their original terms. Credential-related lines were omitted from the publication copies; original source files are unchanged.
+Authors (manuscript order): Rui Zhang, Jiaying Liu, Yu Gu, Li Fu, Bo Huang, and Zhenzhuang Zou.
+
+Repository: https://github.com/baozizhuang/BPD-AT2-mitochondrial-stemness
+
+Version: 0.1.0. Zenodo DOI: 10.5281/zenodo.24359512 (reserved until the Zenodo record is published).
+
+Original code is distributed under the MIT License; see LICENSE. Third-party code and materials retain their original terms, and this license does not override those terms. Data files are not included or licensed by this code archive. Credential-related lines were omitted from the publication copies; original source files are unchanged.
